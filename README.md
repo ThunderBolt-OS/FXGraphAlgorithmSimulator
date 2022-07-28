@@ -1,6 +1,6 @@
 # Graph Algorithm Simulator using JavaFX
 
-This is a second year OOP Lab project for CSE department SUST.
+This is a second year AoA project for IT department KJSCE.
 Visualizes the following algorithms on graphs input by the user on an interactive canvas.
   
 # Algorithms available :
